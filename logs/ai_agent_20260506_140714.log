@@ -1,0 +1,2 @@
+2026-05-06 14:07:14,584 - ai_agent - [32mINFO[0m - [main.py:47] - Starting application - Task: invalid_task, Strategy: adaptive
+2026-05-06 14:07:14,585 - ai_agent - [31mERROR[0m - [main.py:54] - Invalid task type: invalid_task

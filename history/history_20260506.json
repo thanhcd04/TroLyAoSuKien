@@ -1,0 +1,263 @@
+[
+  {
+    "timestamp": "2026-05-06T14:10:45.829614",
+    "task_name": "Ho\u00e0n th\u00e0nh Search Task",
+    "task_type": "search",
+    "strategy": "aggressive",
+    "total_steps": 9,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:10:54.395408",
+    "task_name": "Ho\u00e0n th\u00e0nh Processing Task",
+    "task_type": "processing",
+    "strategy": "adaptive",
+    "total_steps": 17,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:11:04.029825",
+    "task_name": "Ho\u00e0n th\u00e0nh Exploration Task",
+    "task_type": "exploration",
+    "strategy": "conservative",
+    "total_steps": 29,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:12:04.058596",
+    "task_name": "Ho\u00e0n th\u00e0nh Decision Task",
+    "task_type": "decision",
+    "strategy": "aggressive",
+    "total_steps": 7,
+    "efficiency": 0.75,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:13:38.538621",
+    "task_name": "Ho\u00e0n th\u00e0nh Search Task",
+    "task_type": "search",
+    "strategy": "adaptive",
+    "total_steps": 12,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:17:08.145567",
+    "task_name": "Ho\u00e0n th\u00e0nh Venue Task",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:19:34.250304",
+    "task_name": "Ho\u00e0n th\u00e0nh Venue Task",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:20:20.431258",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:20:20.451336",
+    "task_name": "L\u1eadp k\u1ebf ho\u1ea1ch Ng\u00e2n s\u00e1ch chi ti\u1ebft",
+    "task_type": "budget",
+    "strategy": "adaptive",
+    "total_steps": 11,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:20:20.474709",
+    "task_name": "Qu\u1ea3n l\u00fd Danh s\u00e1ch Kh\u00e1ch m\u1eddi",
+    "task_type": "guests",
+    "strategy": "adaptive",
+    "total_steps": 17,
+    "efficiency": 0.8,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:20:20.497582",
+    "task_name": "Chu\u1ea9n b\u1ecb H\u1eadu c\u1ea7n v\u00e0 K\u1ef9 thu\u1eadt",
+    "task_type": "logistics",
+    "strategy": "adaptive",
+    "total_steps": 19,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:24:33.312535",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:24:33.337240",
+    "task_name": "L\u1eadp k\u1ebf ho\u1ea1ch Ng\u00e2n s\u00e1ch chi ti\u1ebft",
+    "task_type": "budget",
+    "strategy": "adaptive",
+    "total_steps": 11,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:24:33.359962",
+    "task_name": "Qu\u1ea3n l\u00fd Danh s\u00e1ch Kh\u00e1ch m\u1eddi",
+    "task_type": "guests",
+    "strategy": "adaptive",
+    "total_steps": 17,
+    "efficiency": 0.8,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:24:33.387139",
+    "task_name": "Chu\u1ea9n b\u1ecb H\u1eadu c\u1ea7n v\u00e0 K\u1ef9 thu\u1eadt",
+    "task_type": "logistics",
+    "strategy": "adaptive",
+    "total_steps": 19,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:41:33.601996",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:41:33.652302",
+    "task_name": "L\u1eadp k\u1ebf ho\u1ea1ch Ng\u00e2n s\u00e1ch chi ti\u1ebft",
+    "task_type": "budget",
+    "strategy": "adaptive",
+    "total_steps": 13,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:41:33.684381",
+    "task_name": "Qu\u1ea3n l\u00fd Danh s\u00e1ch Kh\u00e1ch m\u1eddi",
+    "task_type": "guests",
+    "strategy": "adaptive",
+    "total_steps": 18,
+    "efficiency": 0.8,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:41:33.707122",
+    "task_name": "Chu\u1ea9n b\u1ecb H\u1eadu c\u1ea7n v\u00e0 K\u1ef9 thu\u1eadt",
+    "task_type": "logistics",
+    "strategy": "adaptive",
+    "total_steps": 19,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:47:07.525017",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:47:07.555158",
+    "task_name": "L\u1eadp k\u1ebf ho\u1ea1ch Ng\u00e2n s\u00e1ch chi ti\u1ebft",
+    "task_type": "budget",
+    "strategy": "adaptive",
+    "total_steps": 15,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:47:07.579953",
+    "task_name": "Qu\u1ea3n l\u00fd Danh s\u00e1ch Kh\u00e1ch m\u1eddi",
+    "task_type": "guests",
+    "strategy": "adaptive",
+    "total_steps": 17,
+    "efficiency": 0.8,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:47:07.618100",
+    "task_name": "Chu\u1ea9n b\u1ecb H\u1eadu c\u1ea7n v\u00e0 K\u1ef9 thu\u1eadt",
+    "task_type": "logistics",
+    "strategy": "adaptive",
+    "total_steps": 24,
+    "efficiency": 0.68,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:54:37.820665",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 7,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T14:58:38.221954",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 6,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T15:01:31.459844",
+    "task_name": "Kh\u1ea3o s\u00e1t v\u00e0 L\u1ef1a ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m",
+    "task_type": "venue",
+    "strategy": "adaptive",
+    "total_steps": 7,
+    "efficiency": 0.9,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T15:01:31.482763",
+    "task_name": "L\u1eadp k\u1ebf ho\u1ea1ch Ng\u00e2n s\u00e1ch chi ti\u1ebft",
+    "task_type": "budget",
+    "strategy": "adaptive",
+    "total_steps": 11,
+    "efficiency": 0.85,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T15:01:31.514405",
+    "task_name": "Qu\u1ea3n l\u00fd Danh s\u00e1ch Kh\u00e1ch m\u1eddi",
+    "task_type": "guests",
+    "strategy": "adaptive",
+    "total_steps": 18,
+    "efficiency": 0.8,
+    "status": "completed"
+  },
+  {
+    "timestamp": "2026-05-06T15:01:31.547596",
+    "task_name": "Chu\u1ea9n b\u1ecb H\u1eadu c\u1ea7n v\u00e0 K\u1ef9 thu\u1eadt",
+    "task_type": "logistics",
+    "strategy": "adaptive",
+    "total_steps": 20,
+    "efficiency": 0.85,
+    "status": "completed"
+  }
+]

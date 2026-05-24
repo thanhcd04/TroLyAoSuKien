@@ -1,0 +1,3 @@
+2026-05-06 14:12:28,991 - ai_agent - DEBUG - [config.py:38] - Loaded config from C:\Users\duogc\OneDrive\Documents\CHUYENDE2\config\config.json
+2026-05-06 14:12:28,991 - ai_agent - [32mINFO[0m - [config.py:30] - Configuration loaded: 7 settings
+2026-05-06 14:12:28,995 - ai_agent - DEBUG - [metrics.py:89] - Loaded 2 previous metrics

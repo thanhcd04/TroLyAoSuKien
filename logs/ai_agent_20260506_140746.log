@@ -1,0 +1,2 @@
+2026-05-06 14:07:46,818 - ai_agent - [32mINFO[0m - [main.py:47] - Starting application - Task: search, Strategy: invalid_strategy
+2026-05-06 14:07:46,818 - ai_agent - [31mERROR[0m - [main.py:60] - Invalid strategy: invalid_strategy

@@ -1,0 +1,9 @@
+2026-05-06 14:08:14,279 - ai_agent - INFO - [main.py:47] - Starting application - Task: decision, Strategy: conservative
+2026-05-06 14:08:14,279 - ai_agent.task - INFO - [task_types.py:97] - Loaded task config: decision
+2026-05-06 14:08:14,279 - ai_agent.task - INFO - [task_types.py:97] - Loaded task config: decision
+2026-05-06 14:08:14,279 - ai_agent.environment - INFO - [environment.py:44] - Environment initialized: Hoàn thành Decision Task (decision)
+2026-05-06 14:08:14,279 - ai_agent.environment - INFO - [environment.py:44] - Environment initialized: Hoàn thành Decision Task (decision)
+2026-05-06 14:08:14,280 - ai_agent.planner - INFO - [planner.py:34] - Planner initialized with strategy: conservative
+2026-05-06 14:08:14,280 - ai_agent.planner - INFO - [planner.py:34] - Planner initialized with strategy: conservative
+2026-05-06 14:08:14,280 - ai_agent.agent - INFO - [agent.py:32] - Agent initialized - Task: Hoàn thành Decision Task, Type: decision, Strategy: conservative
+2026-05-06 14:08:14,280 - ai_agent.agent - INFO - [agent.py:32] - Agent initialized - Task: Hoàn thành Decision Task, Type: decision, Strategy: conservative

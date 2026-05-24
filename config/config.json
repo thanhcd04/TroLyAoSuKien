@@ -1,0 +1,9 @@
+{
+  "max_iterations": 1000,
+  "max_pause_count": 3,
+  "log_level": "INFO",
+  "enable_metrics": true,
+  "enable_persistence": true,
+  "persistence_format": "json",
+  "debug_mode": false
+}

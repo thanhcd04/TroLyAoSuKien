@@ -1,0 +1,180 @@
+2026-05-06 14:10:54,361 - ai_agent - DEBUG - [config.py:38] - Loaded config from C:\Users\duogc\OneDrive\Documents\CHUYENDE2\config\config.json
+2026-05-06 14:10:54,361 - ai_agent - [32mINFO[0m - [config.py:30] - Configuration loaded: 7 settings
+2026-05-06 14:10:54,367 - ai_agent - [32mINFO[0m - [main.py:86] - Starting application - Task: processing, Strategy: adaptive
+2026-05-06 14:10:54,379 - ai_agent - DEBUG - [metrics.py:71] - Loaded 1 previous metrics
+2026-05-06 14:10:54,379 - ai_agent.task - [32mINFO[0m - [task_types.py:97] - Loaded task config: processing
+2026-05-06 14:10:54,379 - ai_agent.task - [32mINFO[0m - [task_types.py:97] - Loaded task config: processing
+2026-05-06 14:10:54,379 - ai_agent.environment - [32mINFO[0m - [environment.py:44] - Environment initialized: Hoàn thành Processing Task (processing)
+2026-05-06 14:10:54,379 - ai_agent.environment - [32mINFO[0m - [environment.py:44] - Environment initialized: Hoàn thành Processing Task (processing)
+2026-05-06 14:10:54,380 - ai_agent.planner - [32mINFO[0m - [planner.py:34] - Planner initialized with strategy: adaptive
+2026-05-06 14:10:54,380 - ai_agent.planner - [32mINFO[0m - [planner.py:34] - Planner initialized with strategy: adaptive
+2026-05-06 14:10:54,380 - ai_agent - DEBUG - [metrics.py:85] - Created execution metrics: Hoàn thành Processing Task
+2026-05-06 14:10:54,380 - ai_agent.agent - [32mINFO[0m - [agent.py:43] - Agent initialized - Task: Hoàn thành Processing Task, Type: processing, Strategy: adaptive
+2026-05-06 14:10:54,380 - ai_agent.agent - [32mINFO[0m - [agent.py:43] - Agent initialized - Task: Hoàn thành Processing Task, Type: processing, Strategy: adaptive
+2026-05-06 14:10:54,380 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=0/10
+2026-05-06 14:10:54,380 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=0/10
+2026-05-06 14:10:54,380 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 0/10)
+2026-05-06 14:10:54,380 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 0/10)
+2026-05-06 14:10:54,380 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,380 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,380 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=1
+2026-05-06 14:10:54,380 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=1
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 1, 'efficiency': 0.85}
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 1, 'efficiency': 0.85}
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=1/10
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=1/10
+2026-05-06 14:10:54,381 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 1/10)
+2026-05-06 14:10:54,381 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 1/10)
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=2
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=2
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 2, 'efficiency': 0.85}
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 2, 'efficiency': 0.85}
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=2/10
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=2/10
+2026-05-06 14:10:54,381 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 2/10)
+2026-05-06 14:10:54,381 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 2/10)
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=3
+2026-05-06 14:10:54,381 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=3
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 3, 'efficiency': 0.85}
+2026-05-06 14:10:54,381 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 3, 'efficiency': 0.85}
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=3/10
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=3/10
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 3/10)
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 3/10)
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=4
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=4
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 4, 'efficiency': 0.85}
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 4, 'efficiency': 0.85}
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=4/10
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=4/10
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 4/10)
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 4/10)
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=5
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=5
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 5, 'efficiency': 0.85}
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 5, 'efficiency': 0.85}
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=5/10
+2026-05-06 14:10:54,382 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=5/10
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 5/10)
+2026-05-06 14:10:54,382 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 5/10)
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,382 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=6
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=6
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 6, 'efficiency': 0.85}
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 6, 'efficiency': 0.85}
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=6/10
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=6/10
+2026-05-06 14:10:54,383 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 6/10)
+2026-05-06 14:10:54,383 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 6/10)
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=7
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=7
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 7, 'efficiency': 0.85}
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 7, 'efficiency': 0.85}
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,383 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,383 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,383 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,383 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,383 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,383 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,384 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,384 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,384 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,384 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,384 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,384 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,384 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,384 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,384 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,384 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,384 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,384 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 7/10)
+2026-05-06 14:10:54,384 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,384 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,384 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,384 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=7/10
+2026-05-06 14:10:54,385 - ai_agent.planner - [33mWARNING[0m - [planner.py:91] - Pause count exceeded, forcing advance
+2026-05-06 14:10:54,385 - ai_agent.planner - [33mWARNING[0m - [planner.py:91] - Pause count exceeded, forcing advance
+2026-05-06 14:10:54,385 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 7/10)
+2026-05-06 14:10:54,385 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 7/10)
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=8
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=8
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 8, 'efficiency': 0.85}
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 8, 'efficiency': 0.85}
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=8/10
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=8/10
+2026-05-06 14:10:54,385 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 8/10)
+2026-05-06 14:10:54,385 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 8/10)
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=9
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=9
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 9, 'efficiency': 0.85}
+2026-05-06 14:10:54,385 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 9, 'efficiency': 0.85}
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,385 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,386 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,386 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,386 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,386 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: pause (progress: 9/10)
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: pause
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,386 - ai_agent.executor - [32mINFO[0m - [executor.py:43] - Pausing execution for evaluation
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=9/10
+2026-05-06 14:10:54,387 - ai_agent.planner - [33mWARNING[0m - [planner.py:91] - Pause count exceeded, forcing advance
+2026-05-06 14:10:54,387 - ai_agent.planner - [33mWARNING[0m - [planner.py:91] - Pause count exceeded, forcing advance
+2026-05-06 14:10:54,387 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 9/10)
+2026-05-06 14:10:54,387 - ai_agent.planner - DEBUG - [planner.py:102] - Selected action: advance (progress: 9/10)
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=10
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:105] - Action advance: progress=10
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 10, 'efficiency': 0.85}
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'advanced', 'progress': 10, 'efficiency': 0.85}
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=10/10
+2026-05-06 14:10:54,387 - ai_agent.environment - DEBUG - [environment.py:67] - Observation: progress=10/10
+2026-05-06 14:10:54,387 - ai_agent.planner - [32mINFO[0m - [planner.py:62] - Task completed - returning 'stop'
+2026-05-06 14:10:54,387 - ai_agent.planner - [32mINFO[0m - [planner.py:62] - Task completed - returning 'stop'
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-06 14:10:54,387 - ai_agent.environment - [32mINFO[0m - [environment.py:93] - Task already completed
+2026-05-06 14:10:54,387 - ai_agent.environment - [32mINFO[0m - [environment.py:93] - Task already completed
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 11}
+2026-05-06 14:10:54,387 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 11}
+2026-05-06 14:10:54,388 - ai_agent.agent - [32mINFO[0m - [agent.py:131] - Task completed successfully in 17 steps
+2026-05-06 14:10:54,388 - ai_agent.agent - [32mINFO[0m - [agent.py:131] - Task completed successfully in 17 steps
+2026-05-06 14:10:54,395 - ai_agent - DEBUG - [persistence.py:55] - Saved execution to C:\Users\duogc\OneDrive\Documents\CHUYENDE2\history\history_20260506.json
+2026-05-06 14:10:54,396 - ai_agent - [32mINFO[0m - [metrics.py:98] - Saved 1 metrics to C:\Users\duogc\OneDrive\Documents\CHUYENDE2\metrics\metrics.json
+2026-05-06 14:10:54,396 - ai_agent - [32mINFO[0m - [main.py:117] - Application completed successfully

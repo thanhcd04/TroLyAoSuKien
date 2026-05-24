@@ -1,0 +1,461 @@
+2026-05-24 22:23:07,899 - ai_agent - DEBUG - [config.py:38] - Loaded config from C:\Users\9\Downloads\CHUYENDE2\config\config.json
+2026-05-24 22:23:07,899 - ai_agent - [32mINFO[0m - [config.py:30] - Configuration loaded: 7 settings
+2026-05-24 22:23:07,902 - ai_agent - DEBUG - [metrics.py:89] - Loaded 40 previous metrics
+2026-05-24 22:23:07,902 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,902 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,906 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:07,906 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:07,910 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/6
+2026-05-24 22:23:07,910 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/6
+2026-05-24 22:23:07,910 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,910 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,911 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,911 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,911 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,911 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,911 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/6)
+2026-05-24 22:23:07,911 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/6)
+2026-05-24 22:23:07,911 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,911 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,911 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:07,911 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:07,913 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/6
+2026-05-24 22:23:07,913 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/6
+2026-05-24 22:23:07,913 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,913 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,914 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,914 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,914 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,914 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,914 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/6)
+2026-05-24 22:23:07,914 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/6)
+2026-05-24 22:23:07,914 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,914 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,914 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:07,914 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:07,916 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/6
+2026-05-24 22:23:07,916 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/6
+2026-05-24 22:23:07,916 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,916 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,916 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,916 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,917 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,917 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,917 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/6)
+2026-05-24 22:23:07,917 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/6)
+2026-05-24 22:23:07,917 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,917 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,917 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:07,917 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:07,919 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/6
+2026-05-24 22:23:07,919 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/6
+2026-05-24 22:23:07,919 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,919 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,919 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,919 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,919 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,919 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,920 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/6)
+2026-05-24 22:23:07,920 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/6)
+2026-05-24 22:23:07,920 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,920 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,920 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:07,920 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:07,922 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/6
+2026-05-24 22:23:07,922 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/6
+2026-05-24 22:23:07,922 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,922 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,922 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,922 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,922 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,922 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,922 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/6)
+2026-05-24 22:23:07,922 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/6)
+2026-05-24 22:23:07,922 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,922 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,923 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:07,923 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:07,924 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/6
+2026-05-24 22:23:07,924 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/6
+2026-05-24 22:23:07,924 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,924 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,924 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,924 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,925 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,925 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,925 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/6)
+2026-05-24 22:23:07,925 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/6)
+2026-05-24 22:23:07,925 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,925 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,925 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:07,925 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:07,927 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/6
+2026-05-24 22:23:07,927 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/6
+2026-05-24 22:23:07,927 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:07,927 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:07,927 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:07,927 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:07,927 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:07,927 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:07,927 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:07,927 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:07,928 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:07,928 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:07,929 - ai_agent - DEBUG - [persistence.py:55] - Saved execution to C:\Users\9\Downloads\CHUYENDE2\history\history_20260524.json
+2026-05-24 22:23:07,930 - ai_agent - [32mINFO[0m - [metrics.py:116] - Saved 41 metrics to C:\Users\9\Downloads\CHUYENDE2\metrics\metrics.json
+2026-05-24 22:23:07,931 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,931 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,933 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,933 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:07,933 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:07,933 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:07,935 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/8
+2026-05-24 22:23:07,935 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/8
+2026-05-24 22:23:07,936 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,936 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,936 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,936 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,936 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,936 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,936 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/8)
+2026-05-24 22:23:07,936 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/8)
+2026-05-24 22:23:07,936 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,936 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,936 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:07,936 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:07,938 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/8
+2026-05-24 22:23:07,938 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/8
+2026-05-24 22:23:07,938 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,938 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,938 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,938 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,938 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,938 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,939 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/8)
+2026-05-24 22:23:07,939 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/8)
+2026-05-24 22:23:07,939 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,939 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,939 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:07,939 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:07,941 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/8
+2026-05-24 22:23:07,941 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/8
+2026-05-24 22:23:07,941 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,941 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,941 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,941 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,941 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,941 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,941 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/8)
+2026-05-24 22:23:07,941 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/8)
+2026-05-24 22:23:07,941 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,941 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,941 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:07,941 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:07,944 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/8
+2026-05-24 22:23:07,944 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/8
+2026-05-24 22:23:07,944 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,944 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,945 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,945 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,945 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,945 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,945 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/8)
+2026-05-24 22:23:07,945 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/8)
+2026-05-24 22:23:07,945 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,945 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,945 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:07,945 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:07,947 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/8
+2026-05-24 22:23:07,947 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/8
+2026-05-24 22:23:07,947 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,947 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,947 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,947 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,948 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,948 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,948 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/8)
+2026-05-24 22:23:07,948 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/8)
+2026-05-24 22:23:07,948 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,948 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,953 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/8
+2026-05-24 22:23:07,953 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/8
+2026-05-24 22:23:07,954 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,954 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,954 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,954 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,954 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,954 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,955 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/8)
+2026-05-24 22:23:07,955 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/8)
+2026-05-24 22:23:07,955 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,955 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,955 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:07,955 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:07,958 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/8
+2026-05-24 22:23:07,958 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/8
+2026-05-24 22:23:07,958 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,958 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,958 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,958 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,959 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,959 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,959 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/8)
+2026-05-24 22:23:07,959 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/8)
+2026-05-24 22:23:07,959 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,959 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,959 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:07,959 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:07,961 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/8
+2026-05-24 22:23:07,961 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/8
+2026-05-24 22:23:07,961 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,961 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,961 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,961 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,961 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,961 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,961 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 6/8)
+2026-05-24 22:23:07,961 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 6/8)
+2026-05-24 22:23:07,961 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,961 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,961 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=7
+2026-05-24 22:23:07,961 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=7
+2026-05-24 22:23:07,963 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=7/8
+2026-05-24 22:23:07,963 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=7/8
+2026-05-24 22:23:07,963 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,963 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,964 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,964 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:07,964 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,964 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:07,964 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 7/8)
+2026-05-24 22:23:07,964 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 7/8)
+2026-05-24 22:23:07,964 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,964 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:07,964 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=8
+2026-05-24 22:23:07,964 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=8
+2026-05-24 22:23:07,966 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=8/8
+2026-05-24 22:23:07,966 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=8/8
+2026-05-24 22:23:07,966 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:07,966 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:07,966 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:07,966 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:07,966 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:07,966 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:07,966 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 10}
+2026-05-24 22:23:07,966 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 10}
+2026-05-24 22:23:07,967 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 10 steps
+2026-05-24 22:23:07,967 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 10 steps
+2026-05-24 22:23:07,968 - ai_agent - DEBUG - [persistence.py:55] - Saved execution to C:\Users\9\Downloads\CHUYENDE2\history\history_20260524.json
+2026-05-24 22:23:07,970 - ai_agent - [32mINFO[0m - [metrics.py:116] - Saved 42 metrics to C:\Users\9\Downloads\CHUYENDE2\metrics\metrics.json
+2026-05-24 22:23:07,970 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:07,970 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,008 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:08,008 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:08,009 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:08,009 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:08,009 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:08,009 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:08,012 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/5
+2026-05-24 22:23:08,012 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/5
+2026-05-24 22:23:08,012 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,012 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,012 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,012 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,012 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,012 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,012 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/5)
+2026-05-24 22:23:08,012 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/5)
+2026-05-24 22:23:08,012 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,012 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,012 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:08,012 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:08,015 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/5
+2026-05-24 22:23:08,015 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/5
+2026-05-24 22:23:08,015 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,015 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,015 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,015 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,015 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,015 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,015 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/5)
+2026-05-24 22:23:08,015 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/5)
+2026-05-24 22:23:08,015 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,015 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,015 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:08,015 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:08,025 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/5
+2026-05-24 22:23:08,025 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/5
+2026-05-24 22:23:08,025 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,025 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,025 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,025 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,025 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,025 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,026 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/5)
+2026-05-24 22:23:08,026 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/5)
+2026-05-24 22:23:08,026 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,026 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,026 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:08,026 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:08,027 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/5
+2026-05-24 22:23:08,027 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/5
+2026-05-24 22:23:08,027 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,027 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,028 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,028 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,028 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,028 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,028 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/5)
+2026-05-24 22:23:08,028 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/5)
+2026-05-24 22:23:08,028 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,028 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,031 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/5
+2026-05-24 22:23:08,031 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/5
+2026-05-24 22:23:08,031 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,031 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,031 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,031 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,032 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,032 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,032 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/5)
+2026-05-24 22:23:08,032 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/5)
+2026-05-24 22:23:08,032 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,032 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,032 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:08,032 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:08,033 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/5
+2026-05-24 22:23:08,033 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/5
+2026-05-24 22:23:08,034 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,034 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,034 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,034 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,034 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,034 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,034 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/5)
+2026-05-24 22:23:08,034 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/5)
+2026-05-24 22:23:08,034 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,034 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,034 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:08,034 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:08,036 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/5
+2026-05-24 22:23:08,036 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/5
+2026-05-24 22:23:08,036 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:08,036 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:08,037 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:08,037 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:08,037 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:08,037 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:08,037 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:08,037 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:08,037 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:08,037 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:08,038 - ai_agent - DEBUG - [persistence.py:55] - Saved execution to C:\Users\9\Downloads\CHUYENDE2\history\history_20260524.json
+2026-05-24 22:23:08,040 - ai_agent - [32mINFO[0m - [metrics.py:116] - Saved 43 metrics to C:\Users\9\Downloads\CHUYENDE2\metrics\metrics.json
+2026-05-24 22:23:08,040 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,040 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_timeline
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: wedding_budget
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,042 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_theme
+2026-05-24 22:23:08,042 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:08,042 - ai_agent.planner - [32mINFO[0m - [planner.py:46] - Planner initialized with strategy: adaptive
+2026-05-24 22:23:08,045 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/6
+2026-05-24 22:23:08,045 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=0/6
+2026-05-24 22:23:08,045 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,045 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,045 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,045 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,045 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,045 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,045 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/6)
+2026-05-24 22:23:08,045 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 0/6)
+2026-05-24 22:23:08,045 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,045 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,045 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:08,045 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=1
+2026-05-24 22:23:08,047 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/6
+2026-05-24 22:23:08,047 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=1/6
+2026-05-24 22:23:08,047 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,047 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,047 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,047 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,047 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,047 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,048 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/6)
+2026-05-24 22:23:08,048 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 1/6)
+2026-05-24 22:23:08,048 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,048 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,048 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:08,048 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=2
+2026-05-24 22:23:08,049 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/6
+2026-05-24 22:23:08,049 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=2/6
+2026-05-24 22:23:08,049 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,049 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,049 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,049 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,050 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,050 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,050 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/6)
+2026-05-24 22:23:08,050 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 2/6)
+2026-05-24 22:23:08,050 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,050 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,050 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:08,050 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=3
+2026-05-24 22:23:08,052 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/6
+2026-05-24 22:23:08,052 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=3/6
+2026-05-24 22:23:08,052 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,052 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,052 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,052 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,052 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,052 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,052 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/6)
+2026-05-24 22:23:08,052 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 3/6)
+2026-05-24 22:23:08,052 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,052 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,052 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:08,052 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=4
+2026-05-24 22:23:08,054 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/6
+2026-05-24 22:23:08,054 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=4/6
+2026-05-24 22:23:08,054 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,054 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,054 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,054 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,055 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,055 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,055 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/6)
+2026-05-24 22:23:08,055 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 4/6)
+2026-05-24 22:23:08,055 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,055 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,055 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:08,055 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=5
+2026-05-24 22:23:08,057 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/6
+2026-05-24 22:23:08,057 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=5/6
+2026-05-24 22:23:08,057 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,057 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,057 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,057 - ai_agent.task - [32mINFO[0m - [task_types.py:92] - Loaded task config: birthday_games
+2026-05-24 22:23:08,057 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,057 - ai_agent.planner - [31mERROR[0m - [planner.py:179] - Error in _select_action: type object 'TaskType' has no attribute 'BUDGET'
+2026-05-24 22:23:08,057 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/6)
+2026-05-24 22:23:08,057 - ai_agent.planner - DEBUG - [planner.py:123] - Selected action: advance (progress: 5/6)
+2026-05-24 22:23:08,057 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,057 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: advance
+2026-05-24 22:23:08,057 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:08,057 - ai_agent.environment - DEBUG - [environment.py:157] - Action advance: progress=6
+2026-05-24 22:23:08,059 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/6
+2026-05-24 22:23:08,059 - ai_agent.environment - DEBUG - [environment.py:104] - Observation: progress=6/6
+2026-05-24 22:23:08,059 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:08,059 - ai_agent.planner - [32mINFO[0m - [planner.py:74] - Task completed - returning 'stop'
+2026-05-24 22:23:08,060 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:08,060 - ai_agent.executor - DEBUG - [executor.py:39] - Executing action: stop
+2026-05-24 22:23:08,060 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:08,060 - ai_agent.environment - [32mINFO[0m - [environment.py:130] - Task already completed
+2026-05-24 22:23:08,060 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:08,060 - ai_agent.executor - DEBUG - [executor.py:49] - Action result: {'status': 'completed', 'action_count': 7}
+2026-05-24 22:23:08,060 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:08,060 - ai_agent.agent - [32mINFO[0m - [agent.py:135] - Task completed successfully in 7 steps
+2026-05-24 22:23:08,061 - ai_agent - DEBUG - [persistence.py:55] - Saved execution to C:\Users\9\Downloads\CHUYENDE2\history\history_20260524.json
+2026-05-24 22:23:08,063 - ai_agent - [32mINFO[0m - [metrics.py:116] - Saved 44 metrics to C:\Users\9\Downloads\CHUYENDE2\metrics\metrics.json

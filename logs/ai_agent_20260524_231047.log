@@ -1,0 +1,4 @@
+2026-05-24 23:10:47,043 - ai_agent - DEBUG - [config.py:38] - Loaded config from c:\Users\9\Downloads\CHUYENDE2\config\config.json
+2026-05-24 23:10:47,043 - ai_agent - [32mINFO[0m - [config.py:30] - Configuration loaded: 7 settings
+2026-05-24 23:10:47,046 - ai_agent - [32mINFO[0m - [main.py:86] - Starting application - Task: venue, Strategy: adaptive
+2026-05-24 23:10:47,046 - ai_agent - [31mERROR[0m - [main.py:93] - Invalid task type: venue
